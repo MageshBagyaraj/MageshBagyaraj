@@ -3,7 +3,7 @@
 
 # I am Magesh Bagyaraj.
 
-Basically, I have a huge interest in Data science and I'm learning stuffs on day-to-day basis to strengthen my skills in data science.I have basic knowledge in python and Tableau.I look to learn something new to be a better person than I was yesterday:)
+Basically, I have a huge interest in Data science and I'm learning stuffs on day-to-day basis to strengthen my skills in data science.I have knowledge in python, ML, NLP and Tableau.I look to learn something new to be a better person than I was yesterday:)
   
   * I am a ***student of computer applications specialized with data science***:red_circle:   
   
